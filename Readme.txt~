@@ -153,7 +153,7 @@ library, use the 'NOGUI' parameter:
 
 
 
-III. FreeBSD and OpenSolaris (RIP for now)
+III. FreeBSD and OpenSolaris
 ============================
 
 Support status for FreeBSD: http://www.truecrypt.org/misc/freebsd
@@ -172,7 +172,7 @@ If you intend to implement a feature, please contact us first to make sure:
 3) Whether we need help of third-party developers with implementing the feature.
 
 Information on how to contact us can be found at:
-http://gnaa.eu/
+http://www.truecrypt.org/contact
 
 
 
@@ -183,7 +183,6 @@ Copyright Information
 ---------------------
 
 This software as a whole:
-BPL & WTFPL Dual-Licensed 2014 to the GNAA. All rights whatever.
 Copyright (c) 2012 TrueCrypt Developers Association. All rights reserved.
 
 Portions of this software:
@@ -205,4 +204,4 @@ documentation, are the sole property of their respective owners.
 VI. Further Information
 =======================
 
-http://gnaa.eu
+http://www.truecrypt.org
